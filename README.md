@@ -1,1 +1,2 @@
-# neuronets_dh_hack
+# Нейросети
+Приведены примеры алгоритмов (нейросеть и алгоритм из scikit learn). Для запуска можно доработать и использовать [api](https://github.com/Emilikan/dh_hach_api)
