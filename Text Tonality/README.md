@@ -1,5 +1,5 @@
 Нейронная сеть, которая определяет тональность текста. Текст необходимо поместить в файл untitled.txt. ner1.h5 и ner1_attention.h5 -
-модели. Нейросеть обучается на данных emotion.data: 
-https://drive.google.com/file/d/1uvzhc8g1oj4rIFg-_1oh1aQcjVF9EYcI/view?usp=sharing
+модели. Нейросеть обучается на данных 
+[emotion.data](https://drive.google.com/file/d/1uvzhc8g1oj4rIFg-_1oh1aQcjVF9EYcI/view?usp=sharing)
 
 Нейросеть можно использовать для связи эмоции и текста. (По тональности текста и/или комментариям к тексту)
